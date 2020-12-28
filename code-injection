@@ -1,0 +1,63 @@
+SITE HEADER
+
+<style>
+    // Google Analytics{}
+    
+    // header color {}
+    .site-header {
+        background-color: #0E9577;
+    }
+    // header cta (this also effects search modal text color) {}
+   	a {
+        color: white;
+    }
+    // search icon {}
+    .button-icon {
+        color: white;
+    }
+    // search modal {}
+    .form-button {
+        background-color: #0E9577;
+    }
+    // body {}
+    .featured-title {
+        color: #0E9577;
+    }
+    .feed-calendar {
+        color: #0E9557;
+    }
+    // tags {}
+    .single-meta-tag .post-tag {
+    	color: #0E9557;
+    }
+    .tag-name {
+        color: #0E9557;
+    }
+    // modal {}
+    .modal {
+        background-color: #0E9577;
+    }
+    .popular-title {
+        color: #fff;
+    }
+    // reading progress {}
+    .sticky-progress {
+        background-color: #0E9577;
+    }
+    // mobile {}
+    .mobile-menu {
+        background-color: #0E9577;
+    }
+    .burger-bar::before {
+        background-color: white;
+    }
+</style>
+
+SITE FOOTER
+
+<style>
+	// footer color {}
+    .site-footer {
+        background-color: #074F3F;
+    }
+</style>
